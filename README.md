@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2w7u2e6i1u2u2w7_php-web-development-web-development-banner-png%2F&psig=AOvVaw2NKkdXkV2JrBPKf-avkHrp&ust=1765642758997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDo-_65uJEDFQAAAAAdAAAAABAL
 
 <h1 align="center">Hi 👋,I am Sadek Hossen </h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner </h3>
@@ -17,7 +17,7 @@ Skills:  BOOTSTRAP / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Golang, Java, C++
 
 - 👨‍💻 All of my projects are available at https://github.com/Sadek-Hossen?tab=repositories
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
