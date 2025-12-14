@@ -75,3 +75,17 @@ All of my projects are available at [GitHub Repositories](https://github.com/Sad
 ![Sadek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadek-Hossen&show_icons=true&theme=radical)
 
 ---
+
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-Hossen&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadek-Hossen&theme=radical)
+
+---
+
+### 🌐 Connect with me
+- GitHub: https://github.com/Sadek-Hossen
