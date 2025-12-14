@@ -93,4 +93,12 @@ All of my projects are available at [GitHub Repositories](https://github.com/Sad
 - ![Metrics](https://metrics.lecoq.io/Sadek-Hossen)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadek-Hossen&theme=react-dark)
 
+### 📈 Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadek-Hossen&theme=react-dark)
+
+### 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadek-Hossen&theme=onedark)
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SadekHossen)
 
