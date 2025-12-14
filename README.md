@@ -70,4 +70,8 @@ All of my projects are available at [GitHub Repositories](https://github.com/Sad
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Sadek-Hossen/Sadek-Hossen&show_icons=true&theme=radical)
+
+### 📊 GitHub Stats
+![Sadek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadek-Hossen&show_icons=true&theme=radical)
+
+---
