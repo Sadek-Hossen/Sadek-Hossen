@@ -89,3 +89,8 @@ All of my projects are available at [GitHub Repositories](https://github.com/Sad
 
 ### 🌐 Connect with me
 - GitHub: https://github.com/Sadek-Hossen
+
+- ![Metrics](https://metrics.lecoq.io/Sadek-Hossen)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadek-Hossen&theme=react-dark)
+
+
